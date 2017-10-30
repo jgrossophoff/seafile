@@ -2,7 +2,7 @@
 
 When run in X, this command prompts the user to select an area with the mouse.
 
-A screenshot of this area is uploaded to Seafile and a share link is provided.
+A screenshot of this area is uploaded to Seafile and a share link is copied to clipboard.
 
 Needs [import](http://www.imagemagick.org/script/import.php) and [xclip](https://github.com/astrand/xclip) inside $PATH.
 
