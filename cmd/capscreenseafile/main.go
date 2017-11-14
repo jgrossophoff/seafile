@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"git.jgrpf.de/seafile"
+	"github.com/jgrossophoff/seafile"
 )
 
 var (
